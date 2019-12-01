@@ -13,7 +13,7 @@ No extra installation is required expect Python
 
 
 
-After installed required package, you can use it by
+After installing required package, you can run the script by
 `python sort-files.py`
 
 
