@@ -27,13 +27,13 @@ The GUI window will open and enter the directory address you would like to sort.
 Click on sort button and all files would be sorted.
 
 
-### App-Format
+## App-Format
 ![](./images/app.png)
 
-### Folder Before
+## Folder Before
 ![](./images/before.png)
 
-### Folder After
+## Folder After
 ![](./images/after.png)
 
 ## Dependencies
